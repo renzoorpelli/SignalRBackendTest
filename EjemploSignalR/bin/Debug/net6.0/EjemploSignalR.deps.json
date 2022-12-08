@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EjemploSignalR/1.0.0": {
+        "runtime": {
+          "EjemploSignalR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjemploSignalR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
